@@ -1,6 +1,7 @@
 {
  "name": "hms",
  "version": "0.1.0",
+ "homepage": "git@github.com:Ibrahimkhalil112/Hostel-Management-System-By-React.js.git",
  "private": true,
  "dependencies": {
   "@auth0/auth0-react": "^1.12.0",
@@ -15,7 +16,7 @@
  },
  "scripts": {
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+   "deploy": "gh-pages -d build",
   "start": "react-scripts start",
   "build": "react-scripts build",
   "test": "react-scripts test",
