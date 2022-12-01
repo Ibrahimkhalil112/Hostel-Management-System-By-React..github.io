@@ -4,11 +4,11 @@ export default function Contract(){
         
         <div>
         <div className="bodyH">
-        <div className="container"></div>
+        
         <div className="Contract">
             <div class="Contract">
-              <h3 class="hall_name_heading"></h3>
-              <p class="p_text">Daffodil Smart City, Ashulia, Dhaka. Dhaka Division, Bangladesh</p>
+              <h3 class="hall_name_heading"> </h3>
+              <p class="p_text">Daffodil Smart City, Ashulia, Dhaka</p>
 
                 <div class="hall_contact_main">
                    <div class="hall_contact">
@@ -21,7 +21,7 @@ export default function Contract(){
                     </div>
                     <div class="hall_contact">
                          <i class="fas fa-phone-alt"></i>
-                           <a href="tel:+8801757578565" class="f_text"></a>
+                           <a href="tel:+8801757578565" class="f_text"> </a>
                     </div>
                     <div class="hall_contact">
                         <i class="fas fa-envelope"></i>
@@ -32,9 +32,6 @@ export default function Contract(){
 
         </div>
         </div>
-        <div/>
-        <div/>
-        <div/>
         </div>
         
     )
